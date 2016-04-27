@@ -1,0 +1,20 @@
+1
+key_file "f:/k1.txt"
+pair ltc_usd
+buy_margin 
+sell_margin 
+lastMinutes
+buyChunk 
+sellChunk
+buyBudget
+sellBudget
+alfa
+beta
+gamma
+live_trades True 
+logging 
+loggingTime 
+printing
+eraSec 
+interval 
+epsilonSize
